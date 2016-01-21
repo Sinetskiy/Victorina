@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C331CD1A1C5148E9003888FB /* StoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C331CD191C5148E9003888FB /* StoreManager.swift */; };
 		C3C38E181C4FEA7800249702 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C38E171C4FEA7800249702 /* AppDelegate.swift */; };
 		C3C38E1D1C4FEA7900249702 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C38E1B1C4FEA7900249702 /* Main.storyboard */; };
 		C3C38E1F1C4FEA7900249702 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C38E1E1C4FEA7900249702 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C331CD191C5148E9003888FB /* StoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreManager.swift; sourceTree = "<group>"; };
 		C3C38E141C4FEA7800249702 /* Victorina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Victorina.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3C38E171C4FEA7800249702 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3C38E1C1C4FEA7900249702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				C3C38E1B1C4FEA7900249702 /* Main.storyboard */,
 				C3C38E1E1C4FEA7900249702 /* Assets.xcassets */,
 				C3C38E291C4FEFD600249702 /* QuizViewController.swift */,
+				C331CD191C5148E9003888FB /* StoreManager.swift */,
 				C3C38E201C4FEA7900249702 /* LaunchScreen.storyboard */,
 				C3C38E231C4FEA7900249702 /* Info.plist */,
 				C3C38E2B1C4FF0B400249702 /* Question.swift */,
@@ -143,6 +146,7 @@
 			files = (
 				C3C38E2C1C4FF0B400249702 /* Question.swift in Sources */,
 				C3C38E181C4FEA7800249702 /* AppDelegate.swift in Sources */,
+				C331CD1A1C5148E9003888FB /* StoreManager.swift in Sources */,
 				C3C38E2E1C4FF9CB00249702 /* ViewWithButton.swift in Sources */,
 				C3C38E2A1C4FEFD600249702 /* QuizViewController.swift in Sources */,
 			);
@@ -294,6 +298,7 @@
 				C3C38E281C4FEA7900249702 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Victorina/QuizViewController.swift"
-            timestampString = "475009182.295792"
+            timestampString = "475089584.480097"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
             landmarkName = "setup()"
             landmarkType = "5">
          </BreakpointContent>
