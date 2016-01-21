@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C331CD1A1C5148E9003888FB /* StoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C331CD191C5148E9003888FB /* StoreManager.swift */; };
+		C331CD1C1C514EA6003888FB /* cinema.json in Resources */ = {isa = PBXBuildFile; fileRef = C331CD1B1C514EA6003888FB /* cinema.json */; };
 		C3C38E181C4FEA7800249702 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C38E171C4FEA7800249702 /* AppDelegate.swift */; };
 		C3C38E1D1C4FEA7900249702 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C38E1B1C4FEA7900249702 /* Main.storyboard */; };
 		C3C38E1F1C4FEA7900249702 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C38E1E1C4FEA7900249702 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		C331CD191C5148E9003888FB /* StoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreManager.swift; sourceTree = "<group>"; };
+		C331CD1B1C514EA6003888FB /* cinema.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cinema.json; sourceTree = "<group>"; };
 		C3C38E141C4FEA7800249702 /* Victorina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Victorina.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3C38E171C4FEA7800249702 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3C38E1C1C4FEA7900249702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				C3C38E231C4FEA7900249702 /* Info.plist */,
 				C3C38E2B1C4FF0B400249702 /* Question.swift */,
 				C3C38E2D1C4FF9CB00249702 /* ViewWithButton.swift */,
+				C331CD1B1C514EA6003888FB /* cinema.json */,
 			);
 			path = Victorina;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C331CD1C1C514EA6003888FB /* cinema.json in Resources */,
 				C3C38E221C4FEA7900249702 /* LaunchScreen.storyboard in Resources */,
 				C3C38E1F1C4FEA7900249702 /* Assets.xcassets in Resources */,
 				C3C38E1D1C4FEA7900249702 /* Main.storyboard in Resources */,
